@@ -1,6 +1,6 @@
-# The Wild Oasis - Hotel Booking Dashboard
+# The BookEase - Hotel Booking Dashboard
 
-The Wild Oasis is a React-based dashboard application designed for managing hotel bookings. It provides an intuitive interface for administrators to manage cabins, bookings, users, and settings.
+The BookEase is a React-based dashboard application designed for managing hotel bookings. It provides an intuitive interface for administrators to manage cabins, bookings, users, and settings.
 
 ## Features
 
@@ -51,6 +51,21 @@ The Wild Oasis is a React-based dashboard application designed for managing hote
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd the-wild-oasis
+   git clone https://github.com/Ghusn-Mhsen/BookEase
+  
+   ```
+   2. open Folder :
+   ```bash
+  
+   cd BookEase
+   ```
+   3. install dependencies:
+   ```bash
+   npm install
+ 
+   ```
+     4. start development App:
+   ```bash
+   npm run dev
+ 
    ```
