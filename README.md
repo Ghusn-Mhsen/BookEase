@@ -19,19 +19,18 @@ The BookEase is a React-based dashboard application designed for managing hotel 
 - **Vite**: A fast build tool for modern web applications.
 - **React Router DOM**: For client-side routing and navigation.
 - **React Query**: For managing remote state and data fetching.
-- **Redux Toolkit**: For managing UI state.
-- **Context API**: For global state management.
+- **Context API**: For global state management (Dark and Light Mode).
 - **React Hook Form**: For handling form inputs and validation.
 - **Styled Components**: For styling the application with CSS-in-JS.
 - **Supabase**: For backend services (e.g., database and authentication).
 - **React Hot Toast**: For displaying toast notifications.
 - **React Icons**: For using icons in the app.
 - **Date-fns**: For date manipulation and formatting.
+- **recharts**:  Redefined chart in React for statistics visualization.
 
 ## State Management
 
 - **Context API**: Used for global state management.
-- **Redux Toolkit**: Used for managing UI state.
 - **React Query**: Used for managing remote state.
 
 ## Form Handling
